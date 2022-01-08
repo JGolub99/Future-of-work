@@ -351,6 +351,9 @@ def main():
     
     unknown_jobs["Auto label value"] = unknown_jobs["Auto probability"].apply(label_auto)
     print(unknown_jobs.head())
+    unknown_jobs.to_excel("unknown_jobs.xlsx", index=False)
+    final_importance_table.to_excel("importance_table.xlsx", index=False)
+
 
 
 
