@@ -1,0 +1,14 @@
+Features,Importance
+Cholestoral,0.609
+"Sex (0 = female, 1 = male)",0.298
+Resting Blood Pressure,0.209
+ST Depression Induced by Exercise,0.118
+Resting ECG Results,0.083
+Maximum Heart Rate,0.065
+Fasting Blood Pressure,0.056
+Exercise Induced Angina,0.032
+Chest Pain,0.027
+Thalium Stress test Result,0.013
+Slope of Peak Exercise ST Segment,-0.064
+Age,-0.088
+No. Major Vessels coloured by Flouroscopy,-0.275

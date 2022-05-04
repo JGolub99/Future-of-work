@@ -1,36 +1,36 @@
 Features,Importance
-Mathematics,-0.49953121032062514
-Systems Analysis,-0.37575751486797576
-Operations Analysis,-0.20711710232087727
-Negotiation,-0.18838078185403978
-Programming,-0.15823555497809919
-Reading Comprehension,-0.14806467946997878
-Science,-0.1241449379183895
-Installation,-0.11269085960461334
-Judgment and Decision Making,-0.11109443793959695
-Repairing,-0.09591034271035681
-Management of Financial Resources,-0.0846228597033004
-Writing,-0.08230132912744897
-Time Management,-0.07592581690827502
-Instructing,-0.07285871759783627
-Speaking,-0.06806932965928791
-Equipment Maintenance,-0.056422505919085264
-Troubleshooting,-0.047998471794181485
-Management of Material Resources,-0.04665890178481144
-Active Listening,-0.03508052524727264
-Technology Design,-0.030466770078319598
-Management of Personnel Resources,-0.028546406567433864
-Monitoring,-0.024172965331775344
-Operations Monitoring,0.041150135056453076
-Complex Problem Solving,0.06500328243876531
-Systems Evaluation,0.06519049779743676
-Social Perceptiveness,0.07017046541505471
-Active Learning,0.0720142071200861
-Coordination,0.07559319479436608
-Persuasion,0.10083040213975948
-Critical Thinking,0.15077963324292215
-Equipment Selection,0.1518891231539592
-Learning Strategies,0.1552457629773644
-Operation and Control,0.2055598253131517
-Quality Control Analysis,0.27287643077880763
-Service Orientation,0.31382018569426795
+Mathematics,0.468
+Systems Analysis,0.308
+Negotiation,0.191
+Reading Comprehension,0.191
+Speaking,0.186
+Programming,0.165
+Operations Analysis,0.149
+Instructing,0.109
+Science,0.108
+Writing,0.096
+Repairing,0.095
+Judgment and Decision Making,0.084
+Installation,0.083
+Equipment Maintenance,0.079
+Time Management,0.047
+Active Listening,0.029
+Operations Monitoring,0.021
+Management of Financial Resources,0.012
+Monitoring,-0.001
+Troubleshooting,-0.008
+Management of Personnel Resources,-0.033
+Management of Material Resources,-0.049
+Active Learning,-0.053
+Technology Design,-0.054
+Social Perceptiveness,-0.084
+Complex Problem Solving,-0.106
+Critical Thinking,-0.130
+Persuasion,-0.131
+Equipment Selection,-0.132
+Coordination,-0.146
+Systems Evaluation,-0.160
+Operation and Control,-0.172
+Learning Strategies,-0.224
+Service Orientation,-0.315
+Quality Control Analysis,-0.334
